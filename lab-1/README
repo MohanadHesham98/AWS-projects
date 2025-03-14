@@ -1,4 +1,4 @@
-# Identity and Access Management (IAM) Lab
+#Identity and Access Management (IAM) Lab
 This lab provides a hands-on experience with AWS Identity and Access Management (IAM) using the AWS CLI. The objective is to explore IAM users, groups, and policies while practicing user management and permissions assignment.
 
 # Key Tasks Covered:
