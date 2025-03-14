@@ -1,0 +1,36 @@
+# Amazon Virtual Private Cloud (VPC) Lab
+This lab provides hands-on experience in creating and configuring an Amazon VPC using the AWS CLI. The goal is to build a secure and scalable network infrastructure in AWS by setting up a VPC, subnets, routing, security groups, and launching an application server.
+
+# Key Tasks Covered:
+
+# AWS CLI Setup:
+Access the AWS environment and configure AWS CLI with credentials.
+
+# Creating a VPC:
+Set up a custom Virtual Private Cloud (VPC).
+Enable DNS hostnames for better network management.
+
+# Subnet Creation:
+Create both Public and Private Subnets.
+Enable auto-assign Public IP for the public subnet.
+
+# Internet Gateway Configuration:
+Create and attach an Internet Gateway to the VPC for external access.
+
+# Route Table Configuration:
+Create a Public Route Table and associate it with the public subnet.
+Add a route to the Internet Gateway for internet access.
+
+# Security Group Setup:
+Create a Security Group to allow HTTP (port 80) traffic.
+
+# Launching an Application Server:
+Deploy an EC2 instance in the public subnet.
+Use a user-data script to configure and install a web application.
+Retrieve the public DNS to validate the setup.
+
+# Learning Outcomes:
+✅ Gain hands-on experience in AWS networking.
+✅ Understand VPC components like subnets, route tables, and gateways.
+✅ Configure security groups for controlled access.
+✅ Deploy an EC2 instance and configure a web application.
