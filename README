@@ -1,0 +1,7 @@
+# lab-1 :
+Identity and Access Management (IAM) Lab
+This lab provides a hands-on experience with AWS Identity and Access Management (IAM) using the AWS CLI. The objective is to explore IAM users, groups, and policies while practicing user management and permissions assignment.
+
+# lab-2 :
+Amazon Virtual Private Cloud (VPC) Lab
+This lab provides hands-on experience in creating and configuring an Amazon VPC using the AWS CLI. The goal is to build a secure and scalable network infrastructure in AWS by setting up a VPC, subnets, routing, security groups, and launching an application server.
