@@ -1,0 +1,26 @@
+# Identity and Access Management (IAM) Lab
+This lab provides a hands-on experience with AWS Identity and Access Management (IAM) using the AWS CLI. The objective is to explore IAM users, groups, and policies while practicing user management and permissions assignment.
+
+# Key Tasks Covered:
+
+# Setting Up the Environment:
+Configure AWS CLI with access keys, region, and output format.
+
+# Exploring IAM Users and Groups:
+List IAM users and groups.
+Retrieve detailed user information.
+View group memberships.
+
+# Inspecting IAM Policies:
+List attached policies for groups.
+View policy details using policy ARN.
+
+# Managing User Group Assignments:
+Assign users to S3-Support, EC2-Support, and EC2-Admin groups.
+Verify user group assignments.
+
+# Learning Outcomes:
+✅ Understand IAM user and group management.
+✅ Explore IAM policies and their assignments.
+✅ Practice user-role-based access control (RBAC).
+✅ Improve security and permissions management in AWS.
